@@ -1,6 +1,6 @@
 # Código original
 
-´´´
+```
 // C++ code
 //
 void setup()
@@ -47,11 +47,11 @@ void loop()
   
 }
 
-´´´
+```
 
 # Código em POO
 
-´´´
+```
 class Tecla
 {
 private:
@@ -103,4 +103,4 @@ public:
     noTone(12);
   }
 };
-´´´
+```
